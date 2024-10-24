@@ -731,7 +731,8 @@
                         "error_two": "",
                         "error_few": "",
                         "error_many": "",
-                        "error_other": ""
+                        "error_other": "",
+                        "all": ""
                     }
                 }
             }
